@@ -1,0 +1,188 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 97%;
+    background: white;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+.navbar{
+    width: 343.5%;
+    padding:20px;
+    margin-top: 30px;
+    height: 25px;
+    background-color:aqua;
+}
+
+.icon{
+  
+    float: left;
+    background-color:dodgerblue;
+    width: 140px;
+    padding: 19px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: white;
+    font-family: 'Times New Roman';
+}  
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 55px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+
+}
+
+ul li a:hover {
+    color:royalblue;
+}
+
+/*sign in box*/
+.signinbox {
+    width: 360px;
+    height: 150px;
+    float: right;
+    border-radius: 3px;
+    margin-top: 90px;
+    margin-right: 480px;
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+}
+val{
+    width: 500px;
+    margin-left: 15px;
+    font-size: 20px;
+}
+
+val lyn{
+    display:inline-flex;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+    margin-top: 1px;
+}
+
+val input {
+    width: 22%;
+    padding: 1px;
+    border: none;
+    border:1px solid gray;
+    border-radius: 6px;
+    outline: none;
+}
+
+input[type="btn"] {
+    width: 40px;
+    height: 15px;
+    margin-top: 10px;
+    border: none;
+    background-color:gold;
+    font-family: 'Times New Roman';
+
+}
+
+/*sign up box*/
+.signupbox {
+    width: 360px;
+    height: 330px;
+    float:right;
+    background-color: wheat;
+    border-radius: 4px;
+    margin-top: 250px;
+    margin-right:-360px;
+    
+}
+
+h2 {
+    text-align: center;
+    padding-top: 5px;
+    
+}
+
+form {
+    width: 300px;
+    margin-left: 20px;
+}
+
+form label {
+    display:inline-flex;
+    margin-top: 20px;
+    font-size: 12px;
+    font-family: 'Times New Roman';
+    font-weight: lighter;
+}
+form input {
+    width: 27%;
+    padding: 2px;
+    border: none;
+    border: 1px solid grey;
+    border-radius: 6px;
+    outline: none;
+}
+input[type="lor"] {
+    width: 29%;
+    height: 16px;
+    margin-top: 19  px;
+}
+
+input[type="ham"] {
+    width: 30%;
+    height: 16px;
+    margin-top: 10px;
+}
+input[type = "gus"] {
+    width: 200px;
+    height: 16px;
+    margin-top: 20px;
+    margin-right: 2%;
+}
+
+input[type="button"] {
+    width: 305px;
+    height: 22px;
+    margin-top: 20px;
+    margin-right: 2%;
+    background-color: gold;
+}
+
+p{
+    text-align: center;
+    padding: 20px;
+    font-size: 15px;
+}
+x{
+    float: left;
+    margin-left: 74%;
+    margin-top: 25%;
+    color: white;
+}

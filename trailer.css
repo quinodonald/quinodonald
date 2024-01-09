@@ -1,0 +1,271 @@
+*{
+    margin: 0;
+    padding: 0;
+
+}
+
+.main{
+    width: 97%;
+    background: white;
+    background-position: center;
+    background-size: cover;
+    height: 90vh;
+}
+.navbar{
+    width: 343.5%;
+    padding:20px;
+    margin-top: 30px;
+    height: 25px;
+    background-color:aqua;
+}
+
+.icon{
+  
+    float: left;
+    background-color:dodgerblue;
+    width: 140px;
+    padding: 19px;
+    margin-left: 50px;
+    margin-top: -20px;
+    color: white;
+    font-family: 'Times New Roman';
+}  
+
+.menu {
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+
+ul {
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li {
+    list-style: none;
+    margin-left: 62px;
+    margin-top: 55px;
+    
+}
+
+ul li a {
+    text-decoration: none;
+    color: black;
+    font-size: 20px;
+    font-family: 'Times New Roman';
+    font-weight: bold;
+
+}
+
+ul li a:hover {
+    color:royalblue;
+}
+
+.trail1 {
+    position: relative;
+    width: 196px;
+    height: 130px;
+    background-image: url(fast\ x1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top:50px;
+   margin-left: 65px;
+}
+
+   
+
+.trail2 {
+    width: 196px;
+    height: 130px;
+    background-image: url(jumanji1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top:50px;
+   margin-left: 65px;
+
+}
+.trail3 {
+    width: 196px;
+    height: 130px;
+    background-image: url(rise\ of\ the\ beast1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top:50px;
+    margin-left: 65px;
+
+}
+.trail4 {
+    width: 196px;
+    height: 130px;
+    background-image: url(the\ meg21.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top:50px;
+    margin-left: 65px;
+ 
+}
+.trail5 {
+    width: 196px;
+    height: 130px;
+    background-image: url(john\ wick1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: left;
+    margin-top:50px;
+    margin-left: 65px;
+    
+}
+
+.trail6 {
+    width: 196px;
+    height: 130px;
+    background-image: url(no\ way\ home1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top:95px;
+    margin-right: 1126px;
+}
+
+
+.trail7 {
+    width: 196px;
+    height: 130px;
+    background-image: url( the\ nun1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top:-130px;
+    margin-right: 860px;
+}
+.trail8 {
+    width: 196px;
+    height: 130px;
+    background-image: url(assassin1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top:-130px;
+    margin-right: 600px;
+}
+
+
+.trail9 {
+    width: 196px;
+    height: 130px;
+    background-image: url(evil\ dead\ rise1.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top:-130px;
+    margin-right: 350px;
+}
+
+.trail10 {
+    width: 196px;
+    height: 130px;
+    background-image: url(agent471.gif);
+    background-size: contain;
+    background-repeat: no-repeat;
+    float: right;
+    margin-top:  -105px;
+    margin-right: 70px;
+}
+
+O {
+    float:right;
+    margin-right: -1170px;
+    margin-top: -2px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+  
+    
+}
+
+Q {
+    float:right;
+    margin-right: -930px;
+    margin-top: -2px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+   
+    
+}
+
+R {
+    float:right;
+    margin-right: -650px;
+    margin-top: -2px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+    
+}
+
+S {
+    float:right;
+    margin-right: -380px;
+    margin-top: -2px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+   
+}
+
+U {
+    float:right;
+    margin-right: 160px;
+    margin-top: -2px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+   
+}
+
+V {
+    float:right;
+    margin-right:-889px;
+    margin-top: -229px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+  
+}
+
+W {
+    float:right;
+    margin-right:-615px;
+    margin-top: -229px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+ 
+}
+X {
+    float:right;
+    margin-right:-397px;
+    margin-top: -229px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+
+}
+
+Y {
+    float:right;
+    margin-right:-79px;
+    margin-top: -229px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+
+}
+
+Z {
+    float:right;
+    margin-right:180px;
+    margin-top: -230px;
+    font-family: 'Times New Roman';
+    font-size: 20px;
+
+}
